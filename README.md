@@ -1,5 +1,6 @@
 # Simualation-QuickSortAlgorithm
-Bài tập lớn môn Cấu trúc dữ liệu và giải thuật bao gồm file chạy chương trình và source code.
+## Bài tập lớn môn Cấu trúc dữ liệu và giải thuật 
+Mô phỏng thuật toán sắp xếp nhanh: bao gồm file chạy chương trình và source code.
 
 Để chạy chương trình bạn có thể clone hoặc download repo này về và mở file Simualation-QuickSort.jar.
 *Chú ý: Để chạy được file jar máy tính của bạn phải cài java*
